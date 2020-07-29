@@ -8,11 +8,11 @@
 		<version>2.3.0.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.microservizio.albergo</groupId>
-	<artifactId> ftpStarbeatArchive</artifactId>
+	<groupId>com.googolplex</groupId>
+	<artifactId>googolplex</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name> ftpStarbeatArchive</name>
-	<description>Demo project for Spring Boot</description>
+	<name>googolplex</name>
+	<description>googolplex</description>
 
 	<properties>
 		<java.version>11</java.version>

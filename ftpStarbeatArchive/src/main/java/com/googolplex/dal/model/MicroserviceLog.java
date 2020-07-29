@@ -1,4 +1,4 @@
-package com.starbeat.microservice.ftpStarbeatArchive.dal.model;
+package com.googolplex.dal.model;
 
 import java.time.LocalDateTime;
 import java.time.ZonedDateTime;

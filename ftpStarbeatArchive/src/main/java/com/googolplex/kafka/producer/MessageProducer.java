@@ -1,4 +1,4 @@
-package com.starbeat.microservice.ftpStarbeatArchive.kafka.producer;
+package com.googolplex.kafka.producer;
 
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.TimeUnit;

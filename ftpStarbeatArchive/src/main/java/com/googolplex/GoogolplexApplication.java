@@ -1,15 +1,15 @@
-package com.starbeat.microservice.ftpStarbeatArchive;
+package com.googolplex;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
-@ComponentScan({"com.starbeat.microservice.ftpStarbeatArchive"})
+@ComponentScan({"com.googolplex"})
 @SpringBootApplication
-public class FtpStarbeatArchiveApplication {
+public class GoogolplexApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FtpStarbeatArchiveApplication.class, args);
+		SpringApplication.run(GoogolplexApplication.class, args);
 	}
 
 }

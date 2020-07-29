@@ -1,4 +1,4 @@
-package com.starbeat.microservice.ftpStarbeatArchive.controller;
+package com.googolplex.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

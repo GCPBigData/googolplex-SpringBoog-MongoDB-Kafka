@@ -1,13 +1,10 @@
-package com.starbeat.microservice.ftpStarbeatArchive.kafka.consumer;
+package com.googolplex.kafka.consumer;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.env.Environment;
-import org.springframework.kafka.annotation.KafkaListener;
 import org.springframework.stereotype.Service;
-
-import java.io.IOException;
 
 @Service
 public class MessageConsumer {

@@ -1,8 +1,8 @@
-package com.starbeat.microservice.ftpStarbeatArchive.controller;
+package com.googolplex.controller;
 
 import java.util.concurrent.CountDownLatch;
 
-import com.starbeat.microservice.ftpStarbeatArchive.kafka.producer.MessageProducer;
+import com.googolplex.kafka.producer.MessageProducer;
 
 import org.apache.kafka.clients.consumer.ConsumerRecord;
 import org.springframework.beans.factory.annotation.Autowired;

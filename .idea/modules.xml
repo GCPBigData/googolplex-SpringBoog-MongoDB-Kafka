@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ftpStarbeatArchive/ftpStarbeatArchive.iml" filepath="$PROJECT_DIR$/ftpStarbeatArchive/ftpStarbeatArchive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ftpStarbeatArchive/googolplex.iml" filepath="$PROJECT_DIR$/ftpStarbeatArchive/googolplex.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springboot-kafka-mongo.iml" filepath="$PROJECT_DIR$/.idea/springboot-kafka-mongo.iml" />
     </modules>
   </component>

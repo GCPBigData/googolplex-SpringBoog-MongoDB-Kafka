@@ -1,14 +1,12 @@
-package com.starbeat.microservice.ftpStarbeatArchive.controller;
+package com.googolplex.controller;
 
 import java.time.LocalDateTime;
 
+import com.googolplex.dal.dao.MicroserviceLogDao;
+import com.googolplex.dal.model.MicroserviceLog;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RestController;
-
-import com.starbeat.microservice.ftpStarbeatArchive.dal.dao.MicroserviceLogDao;
-import com.starbeat.microservice.ftpStarbeatArchive.dal.model.MicroserviceLog;
 
 @RestController
 public class MongoMicroserviceController {
